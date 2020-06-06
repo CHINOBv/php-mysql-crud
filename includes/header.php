@@ -6,6 +6,8 @@
   <title>PHP MySQL Crud</title>
   <!-- Bootstrap 4 -->
   <link rel="stylesheet" href="./bootstrap/css/bootstrap.min.css">
+
+  <script src="https://kit.fontawesome.com/c729b7eb0d.js" crossorigin="anonymous"></script>
 </head>
 <body>
 <nav class="navbar navbar-dark bg-dark">

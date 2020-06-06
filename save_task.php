@@ -12,8 +12,10 @@
     if (!$res) {
       die("Error on Query");
     }
-    echo "Saved";
-
+    $_SESSION["message"] = "Task Saved";
+    $_SESSION["message_type"] = "success";
+    
+    header("location: index.php");
   }
 
 ?>
